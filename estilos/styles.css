@@ -1,0 +1,25 @@
+.navbar {
+}
+.navul {
+    top: 0;
+    padding: 15px;
+    overflow: hidden;
+    list-style-type: none;
+    position: sticky;
+    background-color: rgb(142, 252, 122);
+}
+li {
+    float:right;
+    padding: 10px 50px;
+    align-items: center;
+}
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+li:hover {
+    background-color: rgb(75, 95, 73);
+}
