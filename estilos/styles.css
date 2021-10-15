@@ -6,11 +6,46 @@ body {
     background-color:#0088ff17;
     font-family: 'Raleway', sans-serif;
 }
+.card-title{
+    padding: 10px;
+    font-size: 25px;
+}
+.card-text{
+    text-align: center;
+    text-align: justify;
+}
 .image {
     margin: 2%;
     padding: 0px 48px;
 }
-.img {
+.cards{
+    padding: 45px;
+    position: relative;
+    display: flex;
+}
+.card1 {
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+}
+.card2 {
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+}
+.card3 {
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
 }
 #tittle {
     width: 60%;
