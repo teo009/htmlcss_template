@@ -24,7 +24,7 @@ body {
     display: flex;
 }
 .card1 {
-    background-color: rgb(214, 214, 214);
+    background-color: #191c3b73;
     padding: 10px;
     margin: 30px;
     border-radius: 15px;
@@ -32,7 +32,7 @@ body {
     border-width: 2px;
 }
 .card2 {
-    background-color: rgb(214, 214, 214);
+    background-color: #191c3b73;
     padding: 10px;
     margin: 30px;
     border-radius: 15px;
@@ -40,7 +40,7 @@ body {
     border-width: 2px;
 }
 .card3 {
-    background-color: rgb(214, 214, 214);
+    background-color: #191c3b73;
     padding: 10px;
     margin: 30px;
     border-radius: 15px;
@@ -70,7 +70,6 @@ body {
     line-height:60px;
     font-size:20px;
     padding: 0 50px;
-    color: rgb(255, 255, 255);
     width:40%;
     letter-spacing:2px;
     text-shadow:2px 2px 5px;
