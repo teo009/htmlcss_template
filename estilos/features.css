@@ -6,6 +6,16 @@ body {
     background-color:#0088ff17;
     font-family: 'Raleway', sans-serif;
 }
+.image {
+    margin: 2%;
+    padding: 0px 225px;
+    align-items: center;
+    justify-content: center;
+}
+.titles {
+    background-color: rgba(49, 44, 88, 0.363);
+    border-radius: 5px;
+}
 .text {
     text-align: center;
     padding-top: 35px;
