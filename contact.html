@@ -37,19 +37,39 @@
         <h1 class="title">Some customers testimonials</h1>
 
         <div class="container">
+
             <div class="mapa">
                 <img src="images/map.png">
             </div>
-            <div class="info">
-                <h3>Correo</h3>
-                <p>
+
+            <form class="info">
+
+                <h3 class="correo">Correo</h3>
+                <p class="desc">
                     Envíanos un correo, describiendo <br />
                     como podemos ayudarte o lo que buscas
                 </p>
-                <input type="email">
-                <p>Descripcion</p>
-                <input type="text">
-            </div>
+
+                <div class="group">      
+                    <input type="email" required>
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label>Email</label>
+                </div>
+
+                <div class="group">      
+                    <input type="text" required>
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label>Descripcion</label>
+                </div>
+
+                <div class="group">
+                    <input type="submit" class="submit">
+                    <span class="highlight"></span>
+                </div>
+
+            </form>
         </div>
 
     </section>
