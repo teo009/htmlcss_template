@@ -6,6 +6,9 @@ body {
     background-color:#0088ff17;
     font-family: 'Raleway', sans-serif;
 }
+.title {
+    padding-block-end: 50px;
+}
 .content {
     display: flex;
     flex-direction: column;
@@ -16,6 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-block-end: 40px;
 }
 .media {
     width: 300px;
@@ -25,6 +29,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 2px;
+    border-color: rgb(255, 255, 255);
 }
 .layer {
     opacity: 0;
