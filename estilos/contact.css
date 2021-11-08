@@ -67,7 +67,7 @@ input:focus ~ label, input:valid ~ label 		{
 }
 .title {
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 5px;
     font-size: 30px;
 }
 #tittle {
